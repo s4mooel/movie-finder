@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movie Finder 🎥</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🎬 Movie Finder</h1>
+    <input type="text" id="searchInput" placeholder="Buscar película...">
+    
+    <!-- 🔽 Menú de géneros -->
+    <div id="genresContainer"></div>
+  </header>
+
+  <main id="moviesContainer"></main>
+
+  <footer>
+    <p>Desarrollado por <strong>Samuel Ibañez</strong> | The Movie Database API 🎞️</p>
+  </footer>
+
+  <!-- Modal -->
+  <div id="movieModal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <img id="modalPoster" src="" alt="Poster">
+      <div class="modal-info">
+        <h2 id="modalTitle"></h2>
+        <p id="modalOverview"></p>
+        <p><strong>Fecha de lanzamiento:</strong> <span id="modalDate"></span></p>
+        <p><strong>Calificación:</strong> ⭐ <span id="modalRating"></span>/10</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
