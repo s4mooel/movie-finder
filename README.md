@@ -1,33 +1,34 @@
-🧩 Movie Finder
 
-Movie Finder es una aplicación web sencilla que permite buscar películas utilizando una API externa.
-El usuario puede escribir el nombre de una película y obtener información como título, imagen y descripción.
+  <h1>🎬 Movie Finder</h1>
+  <p>Aplicación web para buscar películas utilizando una API externa. Visualiza información como título, imagen y descripción.</p>
+</div>
 
-🚀 Tecnologías utilizadas
+---
 
-HTML5
+## 🚀 Tecnologías utilizadas
+- 🧩 **HTML5**
+- 🎨 **CSS3**
+- ⚙️ **JavaScript (fetch API)**
 
-CSS3
+---
 
-JavaScript (fetch API)
+## 💡 Funcionalidades
+- 🔍 Búsqueda de películas por nombre  
+- 🎞️ Visualización dinámica de resultados  
+- 🖥️ Interfaz minimalista y adaptable (responsive design)
 
-⚙️ Funcionalidades
+---
 
-Búsqueda de películas por nombre
+## 🎯 Objetivo
+Proyecto personal desarrollado para practicar:
+- Consumo de APIs externas  
+- Manipulación del **DOM**  
+- Estilización con **CSS** y diseño responsivo  
 
-Visualización dinámica de resultados
+---
 
-Interfaz minimalista y responsiva
+## 🧠 Cómo usarlo
 
-🧠 Objetivo
-
-Proyecto personal para practicar consumo de APIs, manipulación del DOM y diseño con CSS.
-
-💻 Cómo usarlo
-
-Clona el repositorio:
-
-git clone https://github.com/s4mooel/movie-finder.git
-
-
-Abre el archivo index.html en tu navegador.
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/s4mooel/movie-finder.git
