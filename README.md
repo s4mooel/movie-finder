@@ -5,17 +5,17 @@
 
 ---
 
-## 🚀 Tecnologías utilizadas
-- 🧩 **HTML5**
-- 🎨 **CSS3**
-- ⚙️ **JavaScript (fetch API)**
+##  Tecnologías utilizadas
+-  **HTML5**
+-  **CSS3**
+-  **JavaScript (fetch API)**
 
 ---
 
 ## 💡 Funcionalidades
-- 🔍 Búsqueda de películas por nombre  
-- 🎞️ Visualización dinámica de resultados  
-- 🖥️ Interfaz minimalista y adaptable (responsive design)
+-  Búsqueda de películas por nombre  
+-  Visualización dinámica de resultados  
+-  Interfaz minimalista y adaptable (responsive design)
 
 ---
 
@@ -27,7 +27,7 @@ Proyecto personal desarrollado para practicar:
 
 ---
 
-## 🧠 Cómo usarlo
+##  Cómo usarlo
 
 1. Clona el repositorio:
    ```bash
