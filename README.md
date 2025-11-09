@@ -12,14 +12,14 @@
 
 ---
 
-## 💡 Funcionalidades
+##  Funcionalidades
 -  Búsqueda de películas por nombre  
 -  Visualización dinámica de resultados  
 -  Interfaz minimalista y adaptable (responsive design)
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 Proyecto personal desarrollado para practicar:
 - Consumo de APIs externas  
 - Manipulación del **DOM**  
